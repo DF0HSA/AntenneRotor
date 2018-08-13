@@ -1,0 +1,6 @@
+1 rot R cw
+2 orange  L ccw
+3 weiﬂ Analog in (SPeed)
+4 gelb Analog out Richtung
+5 schwarz Analo GND
+6 blauvermutlich GND
